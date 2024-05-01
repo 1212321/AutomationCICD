@@ -19,6 +19,6 @@ public class location {
 
 	public void setLng(double lng) {
 		this.lng = lng;
-	}
+	} //
 
 }
